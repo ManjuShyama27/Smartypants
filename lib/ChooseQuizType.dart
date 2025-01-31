@@ -102,7 +102,7 @@ class _ChooseQuizTypeScreenState extends State<ChooseQuizTypeScreen> {
 //                               final model = GenerativeModel(
 //                                   model: 'gemini-1.5-flash',
 //                                   apiKey:
-//                                       "AIzaSyCsbYA-HcMLJCxoOF49QccvXUx6o8eXMJk",
+//                                       "API_KEY",
 //                                   generationConfig: GenerationConfig(
 //                                       responseMimeType: 'application/json'));
 //                               final prompt = '''
